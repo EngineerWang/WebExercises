@@ -1,0 +1,158 @@
+/********************courses-types开始*******************/
+#courses-types{
+	height:856px;
+}
+#courses-types .wrapper{
+	height:866px;
+}
+#info-nav{
+	height:90px;
+	margin-top:20px;
+	text-align: center;
+}
+#info-nav a{
+	display:inline-block;
+	width:100px;
+	height:30px;
+	line-height:30px;
+	text-align: center;
+}
+#info-nav a:hover{
+	color:#fff;
+	background-color: green;
+	border-radius: 5px;
+}
+#courses-img{
+	height:756px;
+}
+#courses-img .courses-img-wrapper{
+	display:inline-block;
+	width:232px;
+	height:330px;
+	margin:20px 26px;
+}
+#courses-img .courses-img-wrapper .courses-img{
+	display: block;
+	width:232px;
+	height:287px ;
+	border:6px solid #ccc;
+}
+#courses-img .courses-img-wrapper .courses-img img{
+	width:232px;
+	height:287px;
+}
+#courses-img .courses-img-wrapper .courses-img:hover{
+	border-color:orange;
+}
+#courses-img .courses-img-wrapper span{
+	display:block;
+	width:244px;
+	height:43px;
+	line-height:43px;
+	text-align:center;
+}
+#courses-img .courses-img-wrapper .courses-img-text:hover{
+	color:blue;
+	cursor:pointer;
+}
+/********************courses-types结束********************/
+/********************announcements开始********************/
+#announcements{
+	height:394px;
+	overflow:hidden;
+}
+#announcements .wrapper{
+	margin-top:35px;
+	height:340px;
+}
+#announcements-left{
+	float:right;
+	height:264px;
+	width:60%;
+}
+#announcements-right{
+	float:left;
+	height:340px;
+	width:30%;
+}
+#announcements-left-title{
+	height:32px;
+	line-height:32px;
+	text-align:center;
+}
+#announcements-left-detail{
+	height:170px;
+	margin-top:20px;
+	padding:20px;
+	border:1px dotted #424242;
+}
+#announcements-left-detail li{
+	height:25px;
+	padding-top:8px;
+	padding-left:5px;
+	border-bottom:1px dotted #424242;
+}
+#announcements .wrapper li a{
+	height:25px;
+	line-height:25px;
+}
+#announcements-right h3{
+	display:block;
+	height:32px;
+	line-height:32px;
+	text-align:center;
+}
+#announcements-form{
+	height:286px;
+	border:1px dotted #424242;
+	margin-top:20px;
+	padding:0 39px;
+}
+#announcements-form form{
+	width:259px;
+	height:266px;
+	margin:0 auto;
+}
+#announcements-form .announcements-form-label,.announcements-form-input{
+	display:block;
+	height:30px;
+	width:100%;
+}
+#announcements-form .announcements-form-label{
+	line-height:30px;
+	text-align: center;
+}
+#announcements-form span{
+	color:#f40;
+	font-weight:bold;
+}
+#announcements-form .announcements-form-input{
+	border:1px dotted #424242;
+}
+#code-content{
+	height:34px;
+	margin-top:10px;
+	width:100%;
+	line-height:34px;
+}
+#code-input{
+	display:inline-block;
+	width:84px;
+	height:26px;
+	border:1px dotted #424242;
+}
+#code-img{
+	font-size:12px;
+}
+#btn-content{
+	height:25px;
+	margin:20px 0;
+	text-align: center;
+}
+#btn-content input{
+	width:100px;
+	height:25px;
+	background-color:#666;
+	color:#fff;
+}
+/********************announvements结束********************/

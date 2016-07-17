@@ -1,0 +1,51 @@
+/****************contain开始*******************/
+#contain{
+	height:1281px;
+	background-color:yellow;
+}
+#contain .wrapper{
+	height:1281px;
+	background-color: blue;
+}
+#contain-left{
+	width:290px;
+	height:700px;
+	background-color: green;
+}
+#contain-left-about{
+	height:35px;
+	border-bottom:2px solid #ea3939;
+}
+#contain-left-about span{
+	display:block;
+	font-size:14px;
+	height:35px;
+	color:#ea3939;
+	line-height: 35px;
+	width:78px;
+	padding-left:22px;
+	margin-bottom:5px;
+	background:url(../img/nav_title_sign.gif) no-repeat 10px center;
+}
+#contain-left-about .contain-title{
+	display:block;
+	height:40px;
+	text-align:center;
+	line-height:40px;
+	background-color: #efefef;
+	border-bottom:1px solid #ccc;
+	font-size:14px;
+	color:#ea3939;
+	font-weight:bold;
+}
+#contain-left-about .contain-title:hover{
+	color:#000;
+	background-color: #fff;
+}
+#contain-left-connect{
+	height:300px;
+	background-color: #ea3939;
+	padding:20px;
+	margin-top:250px;
+}
+/****************contain结束*******************/

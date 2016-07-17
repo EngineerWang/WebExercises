@@ -1,0 +1,320 @@
+/**********************img reset开始***************************/
+*{
+	margin:0;
+	padding:0;
+	font:12px/1.8 Tahoma,Verdana,Arial,\5b8b\4f53;
+	color:#000;
+}
+ul,li{
+	list-style:none;
+}
+a{
+	text-decoration:none;
+}
+img{
+	border:0;
+}
+.wrapper{
+	width:1100px;
+	margin:0 auto;
+}
+/**********************img reset结束***************************/
+/******************header开始***********************/
+#header{
+	height:95px;
+}
+#header .wrapper{
+	height:95px;
+	position:relative;
+	background:url(../img/logo.jpg) no-repeat left center;
+}
+#header-search{
+	position:absolute;
+	width:262px;
+	height:30px;
+	top:50%;
+	margin-top:-15px;
+	left:50%;
+	border:1px solid #EB3939;
+	margin-left:-131px;
+}
+#search-text{
+	width:212px;
+	height:30px;
+	float:left;
+	border:0;
+	outline:none;
+	text-indent:10px;
+}
+#search-button{
+	float:left;
+	width:50px;
+	height:30px;
+	background-color: #EB3939;
+	color:#fff;
+	border:none;
+}
+#header-list{
+	clear:both;
+	width:212px;
+	border:1px solid #ccc;
+	border-top:none;
+	margin-left:-1px;
+	display:none;
+}
+#header-list li{
+	height:30px;
+	text-indent:10px;
+	line-height:30px;
+	border-bottom:1px dashed #ccc;
+}
+#header-list li:last-child{
+	border:none;
+}
+#icon-wrapper{
+	width:156px;
+	height:32px;
+	position:absolute;
+	top:50%;
+	margin-top:-15px;
+	right:0;
+}
+.icon{
+	display:inline-block;
+	width:32px;
+	height:30px;
+	background:no-repeat;
+	margin-right:30px;
+	float:left;
+}
+#icon-wrapper .qq{
+	background:url(../img/top_qq.jpg);
+}
+#icon-wrapper .weibo{
+	background:url(../img/top_weib.jpg);
+}
+#icon-wrapper .mail{
+	margin-right:0;
+	background:url(../img/top_you.jpg);
+}
+#icon-wrapper .qq:hover{
+	background:url(../img/top_qq_h.png);
+}
+#icon-wrapper .weibo:hover{
+	background:url(../img/top_weib_h.png);
+}
+#icon-wrapper .mail:hover{
+	margin-right:0;
+	background:url(../img/top_you_h.png);
+}
+/*******************header结束***********************/
+
+/*******************nav开始**************************/
+#nav{
+	height:50px;
+	background-color: #EB3939;
+}
+.wrapper{
+	height:50px;
+	position:relative;
+}
+#nav-wrapper{
+	width:945px;
+	position:absolute;
+	left:50%;
+	margin-left:-492px;
+}
+#nav-wrapper li{
+	float:left;
+	width:135px;
+	height:50px;
+	background-color: #eb3939;
+}
+#nav-wrapper li a{
+	display: inline-block;
+	width:135px;
+	height:50px;
+	line-height:50px;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+	text-align: center;
+}
+#nav-wrapper li a:hover{
+	background-color: #A61C00;
+}
+/*******************nav结束**************************/
+
+/*******************banner开始***********************/
+#banner{
+	height:390px;
+	background:url(../img/01.jpg) no-repeat;
+	overflow:hidden;
+}
+#banner .wrapper{
+	height:390px;
+}
+#banner .wrapper ul{
+	width:445px;
+	height:104px;
+	background:url(../img/qw.png) no-repeat center center;
+	margin:0 auto;
+	margin-top:100px;
+	position:relative;
+}
+#banner-top,#banner-bottom{
+    width:445px;
+	height:23px;
+	line-height:23px;
+	text-align:center;
+}
+#banner-top span,#banner-bottom span{
+	color:#fff;
+	font-size:13px;
+	font-weight:bold;
+}
+#banner-top span{
+	margin-left:-50px;
+}
+#banner-bottom span{
+	margin-left:-80px;
+}
+#banner-center{
+	width:445px;
+	height:59px;
+	line-height:59px;
+	text-align:center;
+}
+#banner-center span{
+	font-size:33px;
+	font-weight:bolder;
+}
+#banner-center span:first-child{
+	color:#eb3939;
+}
+#banner-center span:last-child{
+	color:#000;
+}
+#banner-telephone{
+	height:80px;
+	position:relative;
+}
+#telephone-img{
+	position:absolute;
+	bottom:0;
+	left:50%;
+	margin-left:-116px;
+	height:32px;
+	width:232px;
+	background:url(../img/fg_dh.png) no-repeat center bottom;
+}
+#telephone-img span{
+	display: inline-block;
+	font-size:14px;
+	font-weight:bold;
+	color:#fff;
+}
+#telephone-ch{
+	width:100px;
+	height:32px;
+	text-align: center;
+	line-height:32px;
+}
+/*******************banner结束***********************/
+
+/*******************footer开始***********************/
+#footer{
+	margin:5px 0;
+	height:180px;
+	background-color: #666666;
+}
+#footer .wrapper{
+	height:180px;
+	position:relative;
+}
+#footer-scroll{
+	display:inline-block;
+	position:absolute;
+	width:20px;
+	height:150px;
+	padding:0 10px;
+	color:#fff;
+	top:-10px;
+	text-align:center;
+	font-size:14px;
+	background-color: #ea3939;
+}
+#footer-left{
+	position:absolute;
+	height:75px;
+	width:500px;
+	top:40px;
+	left:100px;
+}
+#footer span{
+	display:block;
+	font-size:14px;
+	color:#fff;
+}
+#footer-left span:last-child{
+	margin-top:25px;
+}
+#footer-right{
+	height:134px;
+	float:right;
+	width:216px;
+	padding-left:120px;
+	margin-right:100px;
+	background:url(../img/ewm.jpg) no-repeat left bottom;
+}
+#pay-attention{
+	margin-top:40px;
+	color:#fff;
+	font-size:14px;
+}
+#footer-wrapper .icon{
+	width:37px;
+	height:35px;
+}
+#footer-wrapper{
+	height:35px;
+	margin-top:20px;
+}
+#footer-wrapper .qq{
+	background: url(../img/db_qq.jpg);
+}
+#footer-wrapper .weibo{
+	background: url(../img/db_wb.jpg);
+}
+#footer-wrapper .mail{
+	background: url(../img/db_yx.jpg);
+}
+#footer-wrapper .qq:hover{
+	background: url(../img/db_qq_h.jpg);
+}
+#footer-wrapper .weibo:hover{
+	background: url(../img/db_wb_h.jpg);
+}
+#footer-wrapper .mail:hover{
+	background: url(../img/db_yx_h.jpg);
+}
+#PageAdmin{
+	text-align:center;
+	color:#fff;
+	clear:both;
+	position:relative;
+	bottom:-10px;
+}
+/*******************footer结束**********************/
+#anchor{
+	display: block;
+	width:25px;
+	height:25px;
+	position:fixed;
+	bottom:80px;
+	right:0;
+	background: url(../img/gotop.png) -25px;
+}
+#anchor:hover{
+	background: url(../img/gotop.png);
+}

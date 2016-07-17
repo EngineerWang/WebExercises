@@ -1,0 +1,344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test2.css"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"lesson4-",
+				"lesson4-3.css"
+			],
+			[
+				"lesson3",
+				"lesson3-3.css"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"lesson",
+				"lesson2-1(2).css"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgroun-c",
+				"background-color"
+			],
+			[
+				"tex-",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-style"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"bored",
+				"border-radius"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/c++.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 401.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/WIN  8/Desktop/培训网站 (王聪)/index.html",
+		"/C/Users/WIN  8/Desktop/课程/练习/1.css",
+		"/C/Users/WIN  8/Desktop/课程/练习/2.css",
+		"/C/Users/WIN  8/Desktop/课程/练习/1.html",
+		"/C/Users/WIN  8/Desktop/课程/练习/2.html",
+		"/C/Users/WIN  8/Desktop/课程/test2.css",
+		"/C/Users/WIN  8/Desktop/课程/test2.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson1-2.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-1.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-1.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson2-3.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson2-3.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson2-1(2).css",
+		"/C/Users/WIN  8/Desktop/Web/lesson2-1(2).html",
+		"/C/Users/WIN  8/Desktop/Web/lesson1-1.html",
+		"/C/Users/WIN  8/Desktop/Web/淘宝导航栏.html",
+		"/C/Users/WIN  8/Desktop/Web/淘宝导航栏.css",
+		"/C/Users/WIN  8/Desktop/Web/test1.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-4.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-4.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-3.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-3.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson4-3.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson4-2.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson4-3.html",
+		"/C/Users/WIN  8/Desktop/Web/分栏布局（居中）.html",
+		"/C/Users/WIN  8/Desktop/课程/test1.html",
+		"/C/Users/WIN  8/Desktop/Web/3D立方.html",
+		"/C/Users/WIN  8/Desktop/Web/背景与颜色.html",
+		"/C/Users/WIN  8/Desktop/Web/背景与颜色.css",
+		"/C/Users/WIN  8/Desktop/Web/test1.html",
+		"/C/Users/WIN  8/Desktop/Web/test.html",
+		"/C/Users/WIN  8/Desktop/课程/背景与颜色.css",
+		"/C/Users/WIN  8/Desktop/课程/背景与颜色.html",
+		"/C/Users/WIN  8/Desktop/Web/字体.css",
+		"/C/Users/WIN  8/Desktop/Web/字体.html",
+		"/C/Users/WIN  8/Desktop/1.c",
+		"/C/Users/WIN  8/Desktop/Web/淘宝商品.css",
+		"/C/Users/WIN  8/Desktop/Web/祖玛.html",
+		"/C/Users/WIN  8/Desktop/Web/祖玛.css",
+		"/C/Users/WIN  8/Desktop/Web/图片3D轮播.css",
+		"/C/Users/WIN  8/Desktop/Web/图片3D轮播.html",
+		"/C/Users/WIN  8/Desktop/Web/淘宝商品.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson4-1.css",
+		"/C/Users/WIN  8/Desktop/Web/lesson4-1.html",
+		"/C/Users/WIN  8/Desktop/Web/lesson3-4",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (Windows).sublime-keymap",
+		"/C/Users/WIN  8/Desktop/Web/test3-2.css",
+		"/C/Users/WIN  8/Desktop/Web/test3-2.html",
+		"/C/Users/WIN  8/Desktop/Web/test2.html",
+		"/C/Users/WIN  8/Desktop/Web/test3-1.html",
+		"/C/Users/WIN  8/Desktop/test3.html",
+		"/C/Users/WIN  8/Desktop/test3.css",
+		"/C/Users/WIN  8/Desktop/test4.html",
+		"/C/Users/WIN  8/Desktop/test2.html",
+		"/C/Users/WIN  8/Desktop/test2",
+		"/C/Users/WIN  8/Desktop/test1.html",
+		"/C/Users/WIN  8/Desktop/sublime_text.lnk",
+		"/H/编程/调试运行/实验七.cpp",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/ConvertToUTF8/Default (Windows).sublime-keymap",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Installed Packages/LESS.sublime-package",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/Default (Windows).sublime-keymap",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/backrefs/st3/backrefs/uniprops/unidata/quickcheck.py",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/ColorPicker/Default (OSX).sublime-keymap",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/backrefs/readme.md",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/WIN  8/Desktop/1.cpp",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/c++.sublime-build",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/c.sublime-build",
+		"/C/Users/WIN  8/Desktop/test.html",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+		"/C/Users/WIN  8/Desktop/1.html",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/User/C++11.sublime-settings",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/C++11/C++11.sublime-settings",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/C++11/messages/install.txt",
+		"/H/编程/调试运行/实验1.cpp",
+		"/H/编程/调试运行/实验二.cpp",
+		"/H/编程/调试运行/1.cpp",
+		"/H/编程/JAVA编程/实验七/src/TEST7/TestTextArea.java",
+		"/C/Users/WIN  8/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

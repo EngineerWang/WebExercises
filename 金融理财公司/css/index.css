@@ -1,0 +1,221 @@
+
+
+
+
+/*******************content开始**********************/
+#content{
+	height:541px;
+}
+#content .wrapper{
+	height:541px;
+	overflow:hidden;
+}
+#content-top{
+	height:174px;
+	margin-top:20px;
+}
+#content-bottom{
+	height:317px;
+	margin-top:10px;
+}
+#content-top-left,#content-top-center{
+	height:174px;
+	width:334px;
+	float:left;
+	margin-right:40px;
+}
+#content-top-right{
+	height:174px;
+	width:340px;
+	float:left;
+}
+.content-top-title{
+	overflow:hidden;
+	height:27px;
+	padding-left:20px;
+}
+#content-top-left .content-top-title{
+	border-bottom: 2px solid #f40;
+	background:url(../img/xw_1.png) no-repeat center left;
+}
+.title-name{
+	font-size:15px;
+	height:27px;
+	line-height:27px;
+	display:inline-block;
+}
+#content-top-left .content-top-title .title-name{
+	color:#f40;
+}
+.content-more{
+	color:#424242;
+	margin-top:5px;
+	margin-right:5px;
+	float:right;
+}
+.content-more:hover{
+	color:#f40;
+}
+.content-top-detail{
+	list-style-position:inside;
+	height:145px;
+	list-style:square;
+}
+.content-top-detail li{
+	height:20px;
+	padding:5px 0 3px 5px;
+	border-bottom:1px dotted #424242;
+	color:#424242;
+	line-height:20px;
+}
+.content-top-detail li a{
+	display:inline-block;
+	padding-left:10px;
+	width:287px;
+	background:url(../img/article_arrow.gif) no-repeat left center;
+	white-space:nowrap;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	color:#424242;
+}
+.content-top-detail li span{
+	display:inline-block;
+	height:21px;
+	line-hieght:21px;
+	float:right;
+	color:#424242;
+} 
+.content-top-detail li a:hover{
+	color:#f40;
+}
+#content-top-center .content-top-title{
+	background: url(../img/xw_2.png) no-repeat left center;
+	border-bottom: 2px solid black;
+}
+#content-top-right>div{
+	width:95px;
+	height:174px;
+	float:left;
+}
+#financing,#inverstment{
+	margin-right:27px;
+}
+#fanancing-img,#inverstment-img,#equity-img{
+	height:125px;
+}
+#fanancing-img{
+	background:url(../img/sy_tz_1.jpg) no-repeat center top;
+}
+#fanancing-img:hover{
+	background: url(../img/sy_tz_1_h.jpg);
+}
+#inverstment-img{
+	background:url(../img/sy_tz_2.jpg) no-repeat center top;
+}
+#inverstment-img:hover{
+	background: url(../img/sy_tz_2_h.jpg);
+}
+#equity-img{
+	background: url(../img/sy_tz_3.jpg) no-repeat center top;
+}
+#equity-img:hover{
+	background: url(../img/sy_tz_3_h.jpg);
+}
+#fanancing-ch,#inverstment-ch,#equity-ch{
+	bottom:24px;
+	text-align: center;
+	line-height:25px;
+	height:25px;
+}
+#content-top-right a{
+	color:#EA3939;
+	font-weight: bold
+}
+#content-top-right a:hover{
+	color:#BF0F0F;
+}
+#fanancing-en,#inverstment-en,#equity-en{
+	text-align:center;
+	line-height: 24px;
+	height:24px;
+	bottom:0;
+	color:#424242;
+}
+#about-us,#business,#contact-way,#recruit{
+	float:left;
+}
+#about-us{
+	position:relative;
+	width:298px;
+	height:317px;
+	border:1px solid #ccc;
+	margin-right:10px;
+	background:url(../img/ab_t.jpg) no-repeat top center;
+}
+#business{
+	line-height:30px;
+	color:#424242;
+	width:230px;
+	height:275px;
+	padding:20px;
+	margin-right: 10px;
+	background:url(../img/yw_t.png) no-repeat bottom right #f1f1f1;
+}
+#contact-way{
+	width:265px;
+	height:113px;
+	padding:20px 0 20px 240px;
+	margin-bottom:10px;
+	background:url(../img/call_t.png) no-repeat center left #f1f1f1;
+}
+#recruit{
+	line-height:30px;
+	color:#424242;
+	width:315px;
+	height:132px;
+	padding:20px 20px 0 170px;
+	background: url(../img/zp_t.png) no-repeat left center #f1f1f1;
+}
+#about-us-content{
+	height:182px;
+	margin-top:150px;
+	text-indent:2em;
+	color:#424242;
+	line-height:25px;
+}
+#about-us-ch{
+	position:absolute;
+	width:39px;
+	height:51px;
+	padding:5px 10px 20px 10px;
+	font-size:18px;
+	text-align:center;
+	color:#fff;
+	left:40px;
+	background-color: #EA3939;
+}
+#about-us-en{
+	width:59px;
+	height:30px;
+	background-color:#000;
+	color:#fff;
+	position:absolute;
+	left:40px;
+	text-align: center;
+	line-height:30px;
+	top:105px;
+}
+#business span,#recruit span{
+	display: block;
+	font-size:15px;
+	color:#EA3939;
+}
+#business span a,#recruit a{
+	color:#ea3939;
+}
+#contact-way-content{
+	line-height:30px;
+	font-size:14px;
+	color:#424242;
+}
+/*******************content结束**********************/

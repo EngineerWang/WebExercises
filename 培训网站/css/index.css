@@ -1,0 +1,315 @@
+/************初始化开始*************/
+h3{
+	display:inline-block;
+}
+/************初始化结束*************/
+
+
+/************news开始***************/
+#news{
+	height:195px;
+}
+#news .wrapper{
+	height:195px;
+}
+#news-left{
+	float:left;
+	margin-top:20px;
+	height:155px;
+	width:62%;
+}
+.title{
+	height:35px;
+}
+.more-information{
+	width:100px;
+	height:30px;
+	text-align:center;
+	margin-top:-10px;
+	line-height:30px;
+	float:right;
+	clear:both;
+	margin-right:50px;
+	border-radius:16px;
+}
+.more-information:hover{
+	color:#fff;
+	background-color:#E9454F;
+}
+#list-container{
+	display:block;
+	height:90px;
+	margin-top:20px;
+}
+#list-container li{
+	width:50%;
+	height:30px;
+	line-height:30px;
+	float:left;
+}
+.flower{
+	vertical-align:middle;
+	margin-top:-2px;
+	margin-left:20px;
+}
+#news a{
+	font-size:12px;
+}
+#list-container a{
+	margin-left:-8px;
+}
+#list-container a:hover{
+	color:blue;
+}
+#news-right{
+	margin-top:20px;
+	height:155px;
+	width:38%;
+	float:right;
+}
+#news-right .border{
+	margin-top:20px;
+	border:1px dotted #424242;
+}
+#news-right .border li{
+	height:30px;
+	line-height:30px;
+	text-align:center;
+}
+#news-right li img{
+     float:left;
+     margin-top:7px;
+}
+/************news结束***************/
+/************courses开始***************/
+#courses{
+	height:530px;
+	background-color:rgb(245,245,245);
+}
+#courses .wrapper{
+	height:530px;
+	overflow:hidden;
+}
+#courses .wrapper h2{
+	display:block;
+	height:32px;
+	margin-top:100px;
+	text-align:center;
+	line-height:32px;
+	overflow:hidden;
+}
+#courses .wrapper h5{
+	display:block;
+	height:21px;
+	margin-top:20px;
+	margin-bottom:40px;
+	line-height:21px;
+	text-align:center;
+}
+#courses-img{
+	height:210px;
+}
+#courses-img li{
+	float:left;
+	width:20%;
+}
+#courses-img img{
+	display:block;
+	margin-left:30px;
+}
+#courses-img a{
+	font-size:12px;
+	display:inline-block;
+	height:21px;
+	width:194px;
+	margin-left:30px;
+	text-align:center;
+	line-height:21px;
+}
+/************courses结束***************/
+/************education开始***************/
+#education{
+	height:350px;
+	padding-top:30px;
+	background-color: rgb(147,196,125);
+}
+#education .wrapper{
+	width:525px;
+	height:334px;
+}
+#education .wrapper span{
+	display:inline-block;
+	font-size:12px;
+	height:35px;
+	width:100px;
+	line-height:35px;
+	text-align:center;
+}
+#span-1{
+	background-color:#fff;
+	margin-left:162.5px;
+}
+#span-2{
+	background-color: rgb(241,194,50);
+	color:#fff;
+}
+#wrapper-about-us{
+	margin-top:15px;
+	width:525px;
+}
+#about-us{
+	font-size:12px;
+	display:block;
+	width:102px;
+	height:27px;
+	line-height:27px;
+	border:1px solid #fff;
+	border-radius:6px;
+	color:#fff;
+	text-align: center;
+	margin:0 auto;
+}
+#about-us:hover{
+	color:#000;
+	background-color: #fff;
+	border-color: rgb(241,194,50);
+}
+#education-title{
+	height:63px;
+	line-height:63px;
+	text-align:center;
+	margin-top:20px;
+	color:#fff;
+}
+#education .wrapper h4{
+	height:21px;
+	width:525px;
+	line-height:25px;
+	text-align:center;
+	margin-top:15px;
+	color:#fff;
+}
+#education-detail{
+	font-size:12px;
+	margin-top:20px;
+	padding-top:15px;
+	line-height:2em;
+	border-top:1px solid #fff;
+	width:525px;
+	height:88px;
+	color:#fff;
+}
+/************education结束***************/
+/************questions开始***************/
+#questions{
+	height:394px;
+	overflow:hidden;
+	background-color: #FEE157;
+}
+#questions .wrapper{
+	margin-top:35px;
+	height:340px;
+}
+#questions-left{
+	float:left;
+	height:264px;
+	width:60%;
+}
+#questions-right{
+	float:right;
+	height:340px;
+	width:30%;
+}
+#questions-left-title{
+	height:32px;
+	line-height:32px;
+}
+#questions-left-title a{
+	float:right;
+	display:inline-block;
+	font-size:12px;
+	width:100px;
+	height:25px;
+	line-height:25px;
+	text-align:center;
+}
+#questions-left-title a:hover{
+	background-color:#fff;
+	border-radius:16px;
+}
+#questions-left-detail{
+	height:170px;
+	margin-top:20px;
+	padding:20px;
+	border:1px dotted #424242;
+}
+#questions-left-detail li{
+	height:25px;
+	padding-top:8px;
+	padding-left:5px;
+	border-bottom:1px dotted #424242;
+}
+#questions .wrapper li a{
+	height:25px;
+	line-height:25px;
+}
+#questions-right h3{
+	display:block;
+	height:32px;
+	line-height:32px;
+	text-align:center;
+}
+#questions-form{
+	height:286px;
+	border:1px dotted #424242;
+	margin-top:20px;
+	padding:0 39px;
+}
+#questions-form form{
+	width:259px;
+	height:266px;
+	margin:0 auto;
+}
+#questions-form .questions-form-label,.questions-form-input{
+	display:block;
+	height:30px;
+	width:100%;
+}
+#questions-form .questions-form-label{
+	line-height:30px;
+	text-align: center;
+}
+#questions-form span{
+	color:#f40;
+	font-weight:bold;
+}
+#questions-form .questions-form-input{
+	border:1px dotted #424242;
+}
+#code-content{
+	height:34px;
+	margin-top:10px;
+	width:100%;
+	line-height:34px;
+}
+#code-input{
+	display:inline-block;
+	width:84px;
+	height:26px;
+	border:1px dotted #424242;
+}
+#code-img{
+	font-size:12px;
+}
+#btn-content{
+	height:25px;
+	margin:20px 0;
+	text-align: center;
+}
+#btn-content input{
+	width:100px;
+	height:25px;
+	background-color:#666;
+	color:#fff;
+}
+/************questions结束***************/

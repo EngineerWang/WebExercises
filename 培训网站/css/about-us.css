@@ -1,0 +1,247 @@
+
+/**************header位于common.css中**********************/
+
+/**************banner位于commom.css中**********************/
+
+/**************introduction开始****************************/
+#introduction{
+	height:435px;
+	background-color: rgb(245,245,245);
+}
+#introduction .wrapper{
+	height:435px;
+}
+#introduction-title{
+	display:block;
+	height:48px;
+	line-height:48px;
+	padding:10px 0;
+	text-align:center;
+}
+#introduction-content{
+	display:inline-block;
+	width:625px;
+	height:315px;
+	margin-left:30px;
+	margin-bottom:46px;
+	overflow: hidden;
+}
+#introduction-content h3{
+	height:32px;
+	line-height:32px;
+	margin-top:10px;
+}
+#introduction .wrapper #introduction-content p{
+	font-size:12px;
+	height:63px;
+	line-height:20px;
+}
+#introduction-content-first{
+	color:rgb(106,168,79);
+}
+#introduction-content-second{
+	color:rgb(253,226,87);
+}
+#introduction-content-third{
+	color:rgb(109,158,236);
+}
+#introduction-content-img{
+	display:inline-block;
+	margin-left:100px;
+	width:235px;
+	height:292px;
+	margin-bottom:69px;
+	text-align:center;
+	overflow:hidden;
+}
+/**************introduction结束****************************/
+
+/**************education开始**********************************/
+#education{
+	height:350px;
+	background-color:rgb(109,158,235);
+}
+#education .wrapper{
+	width:525px;
+	height:320px;
+	padding-top:30px;
+}
+#education-title{
+	height:63px;
+	line-height:63px;
+	margin-top:20px;
+	text-align: center;
+	color:#fff;
+}
+#education .wrapper h2{
+	height:48px;
+	line-height:48px;
+	margin-top:15px;
+	text-align: center;
+	color:#fff;
+}
+#education-detail{
+	height:72px;
+	font-size:12px;
+	padding-top: 15px;
+	margin-top:20px;
+	line-height:2em;
+	border-top:1px solid #fff;
+	color:#fff;
+}
+/*******************education结束******************/
+/*******************purpose开始********************/
+#purpose{
+	height:420px;
+}
+#purpose .wrapper{
+	height:420px;
+	overflow:hidden;
+}
+#purpose-left{
+	width:620px;
+	height:360px;
+	margin-top:30px;
+	float:left;
+}
+#purpose-logo{
+	height:133px;
+}
+#purpose #purpose-left #purpose-logo img{
+	padding:0 35px;
+}
+#purpose  #purpose-left .purpose-left-detail{
+	display:inline-block;
+	width:140px;
+	height:227px;
+	padding:0 18px;
+	overflow:hidden;
+}
+#purpose #purpose-left .purpose-left-detail h3{
+      height:32px;
+      line-height:32px;
+      text-align:center;
+}
+#purpose #purpose-left .purpose-left-detail span{
+       font-size:12px;
+       line-height:1.8em;
+}
+#purpose-right{
+	margin-top:30px;
+	float:right;
+	height:374px;
+	width:335px;
+	margin-right:80px
+}
+#purpose #purpose-right h3{
+	display:block;
+	height:32px;
+	line-height:32px;
+	text-align:center;
+}
+#purpose-form{
+	height:310px;
+	border:1px dotted rgb(246,178,107);
+	margin-top:20px;
+	padding:0 39px;
+}
+#purpose #purpose-right #purpose-form form{
+	width:259px;
+	height:266px;
+	margin:0 auto;
+}
+#purpose #purpose-right #purpose-form .purpose-form-label,.purpose-form-input{
+	display:block;
+	height:30px;
+	width:100%;
+}
+#purpose #purpose-right #purpose-form .purpose-form-label{
+	line-height:30px;
+	text-align: center;
+}
+#purpose #purpose-right #purpose-form span{
+	color:#f40;
+	font-weight:bold;
+}
+#purpose #purpose-right #purpose-form .purpose-form-input{
+	border:1px dotted #ccc;
+}
+#code-content{
+	height:34px;
+	margin-top:10px;
+	width:100%;
+	line-height:34px;
+}
+#code-input{
+	display:inline-block;
+	width:84px;
+	height:26px;
+	border:1px dotted #ccc;
+}
+#code-img{
+	font-size:12px;
+}
+#btn-content{
+	height:25px;
+	margin:20px 0;
+	text-align: center;
+}
+#btn-content input{
+	width:100px;
+	height:25px;
+	background-color:#666;
+	color:#fff;
+}
+/*******************purpose结束********************/
+/*******************advantages开始*****************/
+#advantages{
+	height:458px;
+	padding-top: 30px;
+	background-color: rgb(147,196,125);
+}
+#advantages span{
+	display: block;
+	width:400px;
+	height:58px;
+	color:#fff;
+	font-size:18px;
+	line-height: 58px;
+	text-indent:20px;
+}
+#advantages-left{
+	float:left;
+	width:400px;
+	height:458px;
+	margin-left:150px;
+}
+#advantages .advantages-title{
+	color:#fff;
+	width:400px;
+	height:32px;
+	line-height:32px;
+	text-align: center;
+	margin-bottom:20px;
+}
+#pk{
+	float:left;
+	width:150px;
+	height:90px;
+	line-height:90px;
+	color:#fff;
+	margin-top:180px;
+	font-size:50px;
+	text-align: center;
+	font-weight:bold;	
+}
+#advantages-right{
+	width:400px;
+	height:458px;
+	float:right;
+	margin-right:150px;
+}
+#advantages .advantages-detail{
+	height:404px;
+	width:400px;
+	background:url(../img/index_in_9c75.png) no-repeat left center;
+}
+/*******************advantages结束*****************/
